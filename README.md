@@ -1,17 +1,8 @@
 ## Rulzarian
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣄⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⡿⠋⠉⠉⠉⠉⠉⠉⠉⠙⡄⠀⠀⠀⠀⠀⠀⠀⡔⢻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣶⣶⣿⣿⣿⣷⣾⣾⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣮⣤⣤⡇⣀⣀⡀⢀⠀⠀⢀⣀⣀⣀⡀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⠛⠛⣿⠛⠛⠛⠛⠛⠛⠛⠛⠋⠉⠃
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠋⠙⣿⣿⣿⠹⡉⢹⡿⣿⣿⣿⣧⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠺⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⠿⠟⠋⠉⠀⠀⠀⠀⣸⣿⡿⠀⠉⠉⠁⠀⢹⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠘⠋⢹⠄⠀⠀⠀⠀⠀⠀⠀⠠⣿⣿⡃⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣦⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-Welcome to my GitHub! I'm a Python developer passionate about creating awesome projects. You can often find me working on scripts, bots, or automation tools. Let’s connect and build something amazing! 🚀
+**2024**
 
 ---
 
@@ -30,29 +21,5 @@ Welcome to my GitHub! I'm a Python developer passionate about creating awesome p
 - **Roblox**:  [Rulzarian](https://www.roblox.com/users/7560379305/profile)
 
 
-
----
-
-## 🛠️ Current Projects
-
-Here’s a quick overview of what I’m currently working on:
-
-- **Python Automation Scripts**: Writing bots and automation scripts to simplify everyday tasks.
-- **Discord Bots**: Developing fun and utility bots for Discord communities.
-- **Roblox Game Scripts**: Creating game scripts for Roblox, automating tasks and adding unique features.
-
----
-
-## 🚀 Featured Repositories
-
-Here are some of my awesome projects:
-
-### [Awesome Python Bot](https://github.com/your-username/awesome-python-bot)
-
-A fun Discord bot written in Python that can play music, fetch memes, and manage server commands. 🎶🎉
-
-### [Roblox Game Script](https://github.com/your-username/roblox-game-script)
-
-An advanced Roblox script that helps automate various tasks in a Roblox game. 🕹️💻
 
 
