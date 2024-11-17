@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm a Python developer passionate about creating awesome p
 
 ## 📌 My Socials
 
-- **Discord**: [Rulzarian#1304](https://discord.com/users/1304535965573845065)
+- **Discord**: [@Rulzarian](https://discord.com/users/1304535965573845065)
 - **Twitter**: [@Rulzarian](https://x.com/Rulzarian)
-- **Roblox**: [Your Roblox Profile](https://www.roblox.com/users/7560379305/profile)
+- **Roblox**:  [Rulzarian](https://www.roblox.com/users/7560379305/profile)
 
 
 
