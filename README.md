@@ -12,9 +12,9 @@
 
 ## 📌 My Socials
 
-- **Discord**: [@Rulzarian](https://discord.com/users/1304535965573845065)
-- **Twitter**: [@Rulzarian](https://x.com/Rulzarian)
-- **Roblox**:  [@Rulzarian](https://www.roblox.com/users/7560379305/profile)
+- **Discord**:  [@Rulzarian](https://discord.com/users/1304535965573845065)
+- **Twitter**:  [@Rulzarian](https://x.com/Rulzarian)
+- **Roblox** :  [@Rulzarian](https://www.roblox.com/users/7560379305/profile)
 
 
 
